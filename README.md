@@ -1,53 +1,59 @@
 <div align="center">
 
-# Hi, I’m Abhinav Kumar Mishra 👋
+# Abhinav Kumar Mishra
 
-### CSE student · Learning software by building projects · Music & bikes off-screen 🎧🏍️
+<a href="https://github.com/abhinav2404-hub"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=21&duration=2800&pause=900&color=35D07F&center=true&vCenter=true&width=640&height=48&lines=CSE+student+%7C+building+one+project+at+a+time;Learning+Kotlin+and+TypeScript;Ideas+%E2%86%92+experiments+%E2%86%92+useful+apps" alt="Animated intro: CSE student building projects and learning Kotlin and TypeScript" /></a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-abhinav2404--hub-181717?style=for-the-badge&logo=github)](https://github.com/abhinav2404-hub)
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=abhinav2404-hub&label=PROFILE+VIEWS&color=35D07F&style=plastic" alt="Profile views counter" />
+<br />
+<sub>Retro counter: profile views, not unique visitors.</sub>
 
 </div>
 
 ---
 
-## About me
+## A little about me
 
-I’m a computer science student exploring software development one project at a time. I like turning ideas into useful apps, learning by experimenting, and improving with each build. When I’m away from the keyboard, I’m probably listening to music or out riding.
+I’m a computer science student learning software by building and improving real projects. I’m especially interested in practical mobile apps and technology that can help with everyday problems. Away from the keyboard, I’m usually listening to music or riding.
 
-- 🌱 Learning by building with **Kotlin** and **TypeScript**
-- 🧪 Interested in practical apps, mobile development, and ideas that solve everyday problems
-- 🚀 I value curiosity, steady progress, and sharing what I make
+**Currently exploring:** Kotlin · TypeScript · mobile development · product thinking
 
-## Featured projects
+## Things I’m building
 
-| Project | What it is | Built with |
-| --- | --- | --- |
-| [🌿 Soil Mates](https://github.com/abhinav2404-hub/Soil-Mates) | An agri-tech app concept for farmers and agri-vendors, with crop disease support and practical farming resources. | TypeScript |
-| [📱 SIH 2026](https://github.com/abhinav2404-hub/SIH-2026) | An Android app project from my Smart India Hackathon 2026 work; the repository has the current implementation details. | Kotlin |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌿 Soil Mates</h3>
+      <p>An agri-tech app concept for farmers and agri-vendors, with crop disease support and practical farming resources.</p>
+      <a href="https://github.com/abhinav2404-hub/Soil-Mates">Explore the project →</a><br />
+      <sub>TypeScript</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📱 SIH 2026</h3>
+      <p>An Android app project from my Smart India Hackathon 2026 work. Visit the repository for the latest implementation details.</p>
+      <a href="https://github.com/abhinav2404-hub/SIH-2026">Explore the project →</a><br />
+      <sub>Kotlin</sub>
+    </td>
+  </tr>
+</table>
 
-## How I work
+## My build loop
 
 ```mermaid
 graph LR
-    A[Find a problem] --> B[Explore an idea]
-    B --> C[Build a small solution]
+    A[Spot a problem] --> B[Explore an idea]
+    B --> C[Build a small version]
     C --> D[Learn from feedback]
     D --> E[Improve and share]
     E --> B
 ```
 
-## Tech I’m exploring
+## Find me on GitHub
 
-<p>
-  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-</p>
-
-## Find me
-
-- GitHub: [@abhinav2404-hub](https://github.com/abhinav2404-hub)
-- Have a question about one of my projects? Open an issue in its repository.
+- Browse my [repositories](https://github.com/abhinav2404-hub?tab=repositories).
+- Have a question or suggestion? Open an issue on the related project.
 
 ---
 
